@@ -1,0 +1,4 @@
+interface:
+  display_name: "Music Organiser"
+  short_description: "Analyse, organise, cue, and route DJ music"
+  default_prompt: "Use $music-organiser to analyse and organise my music, then route it to an installed destination skill."

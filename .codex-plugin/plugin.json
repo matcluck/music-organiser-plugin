@@ -1,0 +1,25 @@
+{
+  "name": "music-organiser",
+  "version": "0.1.0",
+  "description": "Organise DJ music libraries and generate destination-neutral cue proposals",
+  "author": {
+    "name": "matcluck",
+    "url": "https://github.com/matcluck"
+  },
+  "homepage": "https://github.com/matcluck/music-organiser-plugin",
+  "repository": "https://github.com/matcluck/music-organiser-plugin",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Music Organiser",
+    "shortDescription": "Organise DJ libraries and propose cue points.",
+    "longDescription": "Inventory, identify, clean, organise, and verify DJ music libraries; run metadata inference; and generate destination-neutral cue proposals.",
+    "developerName": "matcluck",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Audit and organise this music inbox safely.",
+      "Propose cue points without writing a DJ application.",
+      "Prepare this library for Rekordbox."
+    ]
+  }
+}

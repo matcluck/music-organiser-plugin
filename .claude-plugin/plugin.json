@@ -1,0 +1,11 @@
+{
+  "name": "music-organiser",
+  "version": "0.1.0",
+  "description": "Organise DJ music libraries and generate destination-neutral cue proposals",
+  "author": {
+    "name": "matcluck",
+    "url": "https://github.com/matcluck"
+  },
+  "homepage": "https://github.com/matcluck/music-organiser-plugin",
+  "repository": "https://github.com/matcluck/music-organiser-plugin"
+}
